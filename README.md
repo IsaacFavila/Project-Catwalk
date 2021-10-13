@@ -14,7 +14,7 @@
 - [Isaac Favila](https://github.com/IsaacFavila) - Ratings & Reviews | [LinkedIn](https://www.linkedin.com/in/isaacmfavila/)
 
 ## Description
-Project Catwalk comprises a complete redesign of the retail portal designed to address the concern of an outdated UI. The requirements for our capstone were provided in the given <b>Business Requirement Documentation</b> that outlined the new user interface requirements for customers to browse items in our retail catalog.
+Project Catwalk comprises a complete redesign of the retail portal designed to address the concern of an outdated UI. The requirements were provided in the given <b>Business Requirement Documentation</b> that outlined the new user interface requirements for customers to browse items in our retail catalog.
 
 ## Technologies Used
 
