@@ -1,4 +1,4 @@
-# HR Front End Capstone - Project Catwalk: Team Orcus
+# Team Orcus Project Catwalk
 
 ## Table of Contents
 - [Team Members](#team-members-&-roles)
