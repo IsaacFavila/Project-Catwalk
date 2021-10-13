@@ -11,7 +11,7 @@
 - [Eric Ma](https://github.com/emm224) - Product Overview | [LinkedIn](https://www.linkedin.com/in/eric-ma-806417bb/)
 - [Jian Zhang](https://github.com/OursCat) - Related Product & User Outfit Lists | [LinkedIn](https://www.linkedin.com/in/jian-zhang-/)
 - [Art Taphanand](https://github.com/ataph15) - Questions & Answers | [LinkedIn](https://www.linkedin.com/in/art-taphanand/)
-- [Isaac Favila](https://github.com/IsaacFavila) - Ratings & Reviews | [LinkedIn](https://www.linkedin.com/in/isaac-favila-2a8334182/)
+- [Isaac Favila](https://github.com/IsaacFavila) - Ratings & Reviews | [LinkedIn](https://www.linkedin.com/in/isaacmfavila/)
 
 ## Description
 Project Catwalk comprises a complete redesign of the retail portal designed to address the concern of an outdated UI. The requirements for our capstone were provided in the given <b>Business Requirement Documentation</b> that outlined the new user interface requirements for customers to browse items in our retail catalog.
