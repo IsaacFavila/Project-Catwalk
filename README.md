@@ -36,11 +36,14 @@ Express.js <img align="left" alt="Express" width="30px" src="https://github.com/
 Webpack <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" />
 <br />
 
+Babel <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" />
+<br />
+
 ### Styling
 CSS <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br />
 
-styled components <img align="left" width="30px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+styled components <img align="left" width="30px" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" />
 <br />
 
 ### Testing
