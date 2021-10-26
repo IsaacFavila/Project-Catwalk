@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Team Members](#team-members-&-roles)
 - [Description](#description)
+- [Ratings & Reviews Demonstration](#ratings-&-reviews-demonstration)
 - [Technologies Used](#technologies-used)
 - [How to View](#how-to-view-and-interact-with-retail-portal)
 
@@ -15,6 +16,8 @@
 
 ## Description
 Project Catwalk comprises a complete redesign of the retail portal designed to address the concern of an outdated UI. The requirements were provided in the given <b>Business Requirement Documentation</b> that outlined the new user interface requirements for customers to browse items in our retail catalog.
+
+## Ratings & Reviews Demonstration
 
 ## Technologies Used
 
