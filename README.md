@@ -1,4 +1,4 @@
-# Team Orcus Project Catwalk
+# Project Catwalk
 
 ## Table of Contents
 - [Team Members](#team-members-&-roles)
